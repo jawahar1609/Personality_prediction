@@ -1,0 +1,47 @@
+body {
+    background-image: url('./images/sm.jpg');
+    background-size: cover;
+}
+
+#footer {
+    position: relative;
+    margin-top: 5%;
+    bottom: 0;
+    width: 100%;
+}
+
+#form {
+    margin: 90px 100px 40px 100px;
+}
+
+#txtsize {
+    font-weight: bold;
+    font-size: 80px;
+    margin-bottom: 20px;
+}
+
+#typesize {
+    font-weight: 100;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+
+.progress {
+    height: 31px;
+    margin-bottom: 10px
+}
+
+.posit {
+    padding-left: 80%;
+}
+
+.progress-bar {
+    text-align: right;
+    transition-duration: 3s;
+}
+
+.bsp_big-image {
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0);
+    border-radius: 5px;
+    margin-top: 0px
+}
